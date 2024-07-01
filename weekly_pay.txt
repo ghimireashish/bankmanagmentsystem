@@ -1,0 +1,3 @@
+Ethan, 100
+Joseph, 120
+Anthony, 120
